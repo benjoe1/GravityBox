@@ -938,5 +938,11 @@
     <string name="pref_cat_navbar_ring_targets_title">Navigációs sáv kör célpontok</string>
     <string name="pref_navbar_ring_targets_enable_summary">Főkapcsoló a navigációs sáv kör célpontokhoz (újraindítás szükséges)</string>
     <string name="pref_navbar_ring_target_title">Kör célpont %d</string>
+    
+        <!-- Shortcut activity title -->
+    <string name="shortcut_activity_title">GravityBox Műveletek</string>
+
+    <!-- Network mode shortcut -->
+    <string name="shortcut_network_mode">Hálózati mód váltás</string>
 	
 </resources>
