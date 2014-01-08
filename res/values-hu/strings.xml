@@ -877,14 +877,14 @@
     <string name="battery_percent_text_size_smallest">Legkisebb</string>
     <string name="battery_percent_text_style_title">Akkumlátor százalék szöveg stílusa</string>
     <string name="battery_percent_text_style_default">Alapértelmezett</string>
-    <string name="battery_percent_text_style_numbers_only">Csak számok (százalékos jelző nélkül)</string>
+    <string name="battery_percent_text_style_numbers_only">Csak számok (% ikon nélkül)</string>
 
     <!-- Battery settings category -->
     <string name="pref_cat_battery_settings_title">Akkumlátor beállítások</string>
 
     <!-- Cursor control in navigation bar -->
     <string name="pref_navbar_cursor_control_title">Kurzor irányítás gombok</string>
-    <string name="pref_navbar_cursor_control_summary">Engedélyezi a kurzor irányító gombokat a navigációs sávon aktív billentyűzetnél</string>
+    <string name="pref_navbar_cursor_control_summary">Megjeleníti a kurzor mozgató gombokat a navigációs sávon billentyűzet használatakor</string>
 
     <!-- Volume rocker wake -->
     <string name="pref_volume_rocker_wake_title">Ébresztés hangerő gombokkal</string>
